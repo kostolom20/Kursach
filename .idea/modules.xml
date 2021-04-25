@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/Bots.iml" filepath="$PROJECT_DIR$/vktellegrambot/Bots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots/telegrambots.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots/telegrambots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots-abilities/telegrambots-abilities.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots-abilities/telegrambots-abilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots-chat-session-bot/telegrambots-chat-session-bot.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots-chat-session-bot/telegrambots-chat-session-bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots-extensions/telegrambots-extensions.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots-extensions/telegrambots-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots-meta/telegrambots-meta.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots-meta/telegrambots-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vktellegrambot/telegrambots-spring-boot-starter/telegrambots-spring-boot-starter.iml" filepath="$PROJECT_DIR$/vktellegrambot/telegrambots-spring-boot-starter/telegrambots-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vktellegrambot1.iml" filepath="$PROJECT_DIR$/.idea/vktellegrambot1.iml" />
+    </modules>
+  </component>
+</project>

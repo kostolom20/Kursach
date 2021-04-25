@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="telegrambots-chat-session-bot" />
+        <module name="telegrambots-abilities" />
+        <module name="telegrambots-spring-boot-starter" />
+        <module name="telegrambots" />
+        <module name="telegrambots-extensions" />
+        <module name="telegrambots-meta" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Bots" target="11" />
+      <module name="telegrambots" target="15" />
+      <module name="telegrambots-abilities" target="15" />
+      <module name="telegrambots-chat-session-bot" target="15" />
+      <module name="telegrambots-extensions" target="15" />
+      <module name="telegrambots-meta" target="15" />
+      <module name="telegrambots-spring-boot-starter" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
